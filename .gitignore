@@ -1,0 +1,7 @@
+*.ipynb_checkpoints
+*.env
+.venv
+mlruns/
+__pycache__/
+templates
+*.idea
